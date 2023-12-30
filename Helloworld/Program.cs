@@ -12,7 +12,7 @@ namespace Helloworld
         {
             Console.WriteLine("Welcome to Git");
             Console.WriteLine("Welcome to Git From Main");
-            //Console.WriteLine("Welcome to Git From Main old");
+            Console.WriteLine("Welcome to Git From Main old");
             //Console.WriteLine("Welcome to Git From main 1");
             //Console.WriteLine("Welcome to Git From main 2");
             Console.ReadLine();
