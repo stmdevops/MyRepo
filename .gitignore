@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Helloworld
+/.vs/Helloworld/FileContentIndex
+/.vs/Helloworld/v17
