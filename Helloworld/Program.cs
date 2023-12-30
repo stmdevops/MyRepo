@@ -10,7 +10,7 @@ namespace Helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to sixth commit");
+            Console.WriteLine("Welcome to seventh commit");
             Console.ReadLine();
         }
     }
