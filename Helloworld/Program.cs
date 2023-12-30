@@ -10,7 +10,7 @@ namespace Helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Git");
+            Console.WriteLine("Welcome to first commit");
             Console.ReadLine();
         }
     }
